@@ -1,5 +1,4 @@
 {
     "index.html": "(.php,.png,.jpeg,.gif,.html);(.exe,.bat,.sh,.bash);0;5",
-    "404.php": "(.php,.png,.jpeg,.gif,.html);(.exe,.bat,.sh,.bash);0;2",
-    "data/test.php": "(.php,.png,.jpeg,.gif,.html);(.exe,.bat,.sh,.bash);0;2"
+    "404.php": "(.php,.png,.jpeg,.gif,.html);(.exe,.bat,.sh,.bash);0;2"
   }
