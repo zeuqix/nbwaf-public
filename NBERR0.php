@@ -1,1 +1,3 @@
-<?php echo "a";echo "a";echo "a";echo "a";echo "a";?>
+<?php 
+  echo "Error 0: The file is currently unexecutable.";
+?>
