@@ -1,0 +1,24 @@
+allowed 1
+disallowed 0
+blocked 2
+
+
+--------------
+
+0 sadece harf
+1 harf ve sayi
+2 harf sayi ve bazi semboller ! + - * 
+3 her sey
+
+--------------------
+
+000	0	—
+001	1	–x
+010	2	-w-
+011	3	-wx
+100	4	r–
+101	5	r-x
+110	6	rw-
+111	7	rwx
+
+-------------------------
